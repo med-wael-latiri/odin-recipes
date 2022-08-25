@@ -1,0 +1,29 @@
+.image{
+    display: block;
+  margin-left: 10%;
+  margin-right: 10px;
+  width: 20%;
+  }
+  .header {
+    text-align: center;
+    text-transform: uppercase;
+    padding: 32px;
+    background-color: #611824;
+    color: #fff;
+    border-bottom: 4px solid #fdb347;
+    border-top:4px solid #fdb347;
+  }
+  .b1
+{
+    text-align: center;
+    background-color: #611824;
+    color:white;
+    width:49%;
+}
+.b2
+{
+    text-align: center;
+    background-color: #611824;
+    color:white;
+    width:49%;
+}
