@@ -1,0 +1,29 @@
+.header {
+    text-align: center;
+    text-transform: uppercase;
+    padding: 32px;
+    background-color: #c2347b;
+    color: #fff;
+    border-bottom: 4px solid #fdb347;
+    border-top:4px solid #fdb347;
+  }
+  .image{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+  }
+  .b1
+  {
+      text-align: center;
+      background-color: #c2347b;
+      color:white;
+      width:49%;
+  }
+  .b2
+  {
+      text-align: center;
+      background-color: #c2347b;
+      color:white;
+      width:49%}
+     
